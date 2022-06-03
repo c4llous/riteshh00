@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @c4llous
-- 👀 I’m interested in Bug hunting and Pentesting
+- 👀 I’m interested in web development and python automations
 - 🌱 I’m currently learning cyber security and Data strcutures
 - 💞️ I’m looking to collaborate on any type of open source project 
 - 📫 How to reach me : mail_  riteshsinghh127@gmail.com
